@@ -3,13 +3,13 @@
 Definition app
 
 Objetivo:
-  Gestion de usuarios
-  Navegacion dentro de la aplicacion
-  implementacion de una IA
-  Uso de camara
-  Gestion de datos locales
-  Mensajes en tiempo real
-  Notificaciones
+  *Gestion de usuarios
+  *Navegacion dentro de la aplicacion
+  *implementacion de una IA
+  *Uso de camara
+  *Gestion de datos locales
+  *Mensajes en tiempo real
+  *Notificaciones
 Criterio de exito:
   Se puede crear y guardar los usuarios en una base de datos
   Hay un drawer y/o tabs para navegar por la aplicacion
