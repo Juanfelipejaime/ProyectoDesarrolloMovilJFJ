@@ -2,7 +2,7 @@
 
 Definition app
 
-Objetivo:
+#Objetivo:
   *Gestion de usuarios
   *Navegacion dentro de la aplicacion
   *implementacion de una IA
