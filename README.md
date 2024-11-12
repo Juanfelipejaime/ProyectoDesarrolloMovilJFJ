@@ -37,6 +37,7 @@ Definition app
   * Fallos en la respuesta de la IA
   * Uso del perfil para ingresar software malicioso
   * Autenticacion permite la entrada de usuarios no registrados
+  * Usuarios con acceso a la basse de datos
 
 ## Restricciones:
   * Tiempo de 2 semanas
