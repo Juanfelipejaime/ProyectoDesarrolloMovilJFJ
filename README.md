@@ -10,6 +10,7 @@ Definition app
   * Gestion de datos locales
   * Mensajes en tiempo real
   * Notificaciones
+
 ## Criterio de exito:
   * Se puede crear y guardar los usuarios en una base de datos
   * Hay un drawer y/o tabs para navegar por la aplicacion
@@ -23,15 +24,16 @@ Definition app
   * El usuario quiere recibir una notificacion cuando agrega un juego
   * El usuario quiere poder escanear un codigo qr
   * El usuario quiere un chat en tiempo real rapido
+  * Poder ver noticias de juegos y lanzamientos proximos
 
 ## Requerimientos
-  * Chat en tiepo real
-  * Uso de camara
-  * Uso de IA
+  * Chat en tiepo real para usuarios agregados como amigos en la aplicacion
+  * Uso de camara para escanear un codigo qr y ingresar
+  * Uso de IA para que los usuarios ingresen caracteristicas de un juego que quieran o que les de la descripcion de uno
   * Gestion de datos
-  * Perfil
-  * Autenticacion
-  * Sistema de notificaciones
+  * Perfil de usuario que indique estadisticas
+  * Autenticacion utilizando correo y contraseña para el ingreso a las funciones de la aplicacion
+  * Sistema de notificaciones al comprar un juego
 
 ## Riesgos:
   * Fallos en la respuesta de la IA
