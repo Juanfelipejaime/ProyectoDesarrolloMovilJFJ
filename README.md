@@ -3,28 +3,32 @@
 Definition app
 
 ## Objetivo:
+Crear una aplicacion para la venta de videojuegos que contenga diferentes funcionalidades como:
   * Gestion de usuarios
   * Navegacion dentro de la aplicacion
   * implementacion de una IA
   * Uso de camara
   * Gestion de datos locales
-  * Mensajes en tiempo real
-  * Notificaciones
+  * Mensajes en tiempo real entre ususarios
+  * Notificaciones de inicio de sesion
 
 ## Criterio de exito:
   * Se puede crear y guardar los usuarios en una base de datos
-  * Hay un drawer y/o tabs para navegar por la aplicacion
+  * Hay un drawer y/o tabs para navegar por la aplicacion dentro de la funciones de la tienda de juegos
   * Se pueden enviar mensajes a una IA y recibir su respuesta
-  * Se puede usar la camara para una o varias funciones
-  * Se usa firebase para guardar informacion
+  * Se puede usar la camara para una o varias funciones como escanear un codigo qr
+  * Se usa firebase para guardar informacion de los usuarios
   * Los mensajes se evian y se actualizan en menos de 2 segundos
-  * La aplicacion genera notificaciones al realizar cientas acciones
+  * La aplicacion genera notificaciones al realizar ciertas acciones
+  * se pueden ver juegos para comprar
 
 ## Historias de usuarios:
   * El usuario quiere recibir una notificacion cuando agrega un juego
-  * El usuario quiere poder escanear un codigo qr
+  * El usuario quiere poder escanear un codigo qr para iniciar sesion
   * El usuario quiere un chat en tiempo real rapido
   * Poder ver noticias de juegos y lanzamientos proximos
+  * El ususario quiere modificar su perfil
+  * Buscar juegos con ayuda de una IA
 
 ## Requerimientos
   * Chat en tiepo real para usuarios agregados como amigos en la aplicacion
@@ -40,10 +44,6 @@ Definition app
   * Uso del perfil para ingresar software malicioso
   * Autenticacion permite la entrada de usuarios no registrados
   * Usuarios con acceso a la basse de datos
-
-## Restricciones:
-  * Tiempo de 2 semanas
-  * Sin presupuesto
 
 ## Figma wireframe
 * https://www.figma.com/design/OBQ2GC3AOSKdvydLDjDXJO/Untitled?node-id=0-1&t=PJA6qnRTNfDdlkl9-1
