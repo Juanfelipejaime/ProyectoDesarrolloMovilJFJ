@@ -1,4 +1,4 @@
-### Objetivo
+# Objetivo
 Desarrollar una aplicación móvil para la venta de videojuegos que integre diversas funcionalidades avanzadas, proporcionando una experiencia completa y dinámica para los usuarios.
 
 ## Características principales:
@@ -32,7 +32,7 @@ Desarrollar una aplicación móvil para la venta de videojuegos que integre dive
 
 ## Requerimientos
 
-# Funcionales
+### Funcionales
 * Chat en tiempo real: Comunicación entre usuarios registrados como amigos dentro de la aplicación.
 * Escaneo con cámara: Función para iniciar sesión mediante códigos QR.
 * IA integrada: Asistencia para buscar juegos por características o recibir descripciones de títulos específicos.
@@ -41,7 +41,7 @@ Desarrollar una aplicación móvil para la venta de videojuegos que integre dive
 * Autenticación segura: Inicio de sesión mediante correo electrónico y contraseña.
 * Notificaciones: Alertas automáticas para eventos como compras y otras acciones importantes.
 
-# No funcionales
+### No funcionales
 Respuesta del chat en menos de 2 segundos.
 Interfaz intuitiva y fácil de usar.
 Almacenamiento seguro de datos sensibles en Firebase.
@@ -49,12 +49,12 @@ Compatibilidad con dispositivos móviles actuales.
 
 ## Riesgos y desafíos
 
-# Técnicos
+### Técnicos
 * Fallas en la IA: Respuestas incorrectas o poco útiles pueden afectar la experiencia del usuario.
 * Seguridad de la base de datos: Posibilidad de accesos no autorizados o exposición de datos sensibles.
 * Problemas en la autenticación: Vulnerabilidades que permitan el acceso de usuarios no registrados.
 
-# Operativos
+### Operativos
 * Uso indebido del perfil: Posibilidad de subir contenido malicioso desde cuentas de usuarios.
 * Rendimiento del sistema: Lentitud en el envío/recepción de mensajes o carga de datos.
 
