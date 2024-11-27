@@ -61,4 +61,6 @@ Compatibilidad con dispositivos móviles actuales.
 
 ## Figma wireframe
 * https://www.figma.com/design/OBQ2GC3AOSKdvydLDjDXJO/Untitled?node-id=0-1&t=PJA6qnRTNfDdlkl9-1
+
+## App en el branch "final"
   
