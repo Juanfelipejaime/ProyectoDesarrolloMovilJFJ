@@ -22,7 +22,7 @@ const Chat = () => {
 
     // API
     try {
-      const response = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyA-8dfdJPQ69RZhDFHgi0cqhFek7oLn6LE', {
+      const response = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key='your user key', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
