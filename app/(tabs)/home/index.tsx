@@ -9,7 +9,7 @@ const Home = () => {
 
   // Api
   useEffect(() => {
-    fetch('https://api.rawg.io/api/games?key=6054fa47300a49668d6d661da10915a3&page_size=15')
+    fetch('https://api.rawg.io/api/games?key=your api key&page_size=15')
       .then((response) => {
         if (!response.ok) {
           throw new Error('Error en la solicitud');
